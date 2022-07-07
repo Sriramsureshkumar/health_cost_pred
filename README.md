@@ -23,6 +23,8 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 </ol>
 
 ### Context
+![medic intro](https://user-images.githubusercontent.com/100552311/177735091-66584087-a5e3-4248-b967-b811463b522d.png)
+
 
 ## :key: Results
 
