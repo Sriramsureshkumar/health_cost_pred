@@ -31,8 +31,16 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 
 ![gender image](https://user-images.githubusercontent.com/100552311/177735600-6c3bf41c-2815-468e-bf56-b91538229049.png)
 
+###Person with charges based on sex,Region and Smoking habit
+
 ![smoker,region with charges](https://user-images.githubusercontent.com/100552311/177735723-958949cf-75df-4106-9c31-668d534a82e4.png)
 
+###Relationship between Multiple features
+
+![Relationship between features](https://user-images.githubusercontent.com/100552311/177736561-71e951eb-ec2c-4760-80fc-3f4cd5f00829.png)
+
+###Accuracy
+![image](https://user-images.githubusercontent.com/100552311/177736918-d81180ec-06b3-48cc-8a7e-a67b99fafd0e.png)
 
 ## :key: Results
 
