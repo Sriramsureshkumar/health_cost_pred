@@ -25,6 +25,14 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 ### Context
 ![medic intro](https://user-images.githubusercontent.com/100552311/177735091-66584087-a5e3-4248-b967-b811463b522d.png)
 
+### Univariant plottings
+
+![univariate for age,c,bmi,charges](https://user-images.githubusercontent.com/100552311/177735442-10a2bb79-b673-44b2-9956-cac2bf55f933.png)
+
+![gender image](https://user-images.githubusercontent.com/100552311/177735600-6c3bf41c-2815-468e-bf56-b91538229049.png)
+
+![smoker,region with charges](https://user-images.githubusercontent.com/100552311/177735723-958949cf-75df-4106-9c31-668d534a82e4.png)
+
 
 ## :key: Results
 
