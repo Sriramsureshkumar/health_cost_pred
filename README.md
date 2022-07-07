@@ -22,6 +22,8 @@ To predict things have been never so easy. I used to wonder how Insurance amount
     <li>Deployed model using Flask</li>
 </ol>
 
+##Context
+
 ## :key: Results
 
 ####  Model gave 86% accuracy for Medical Insurance Amount Prediction using <code>Random Forest Regressor</code>
